@@ -1,6 +1,8 @@
 # ubuntu_sudo_command
 root 
 # sudo su -
+git clone private repo
+# git clone https://github.com/keudaz/abc_repo
 create .env file
 # touch .env
 open file
