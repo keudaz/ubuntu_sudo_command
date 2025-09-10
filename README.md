@@ -9,3 +9,5 @@ open file
 # nano .env
 text editor save methods
 # CTRL + O (save), then ENTER, then CTRL + X (exit)
+git pull
+# git pull origin main
